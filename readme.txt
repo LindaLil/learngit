@@ -7,3 +7,4 @@ git tracks changes of flies.
 git tracks changes of flies.
 Creating a new branch is quick & simple
 Creating a new branch is quick and simple.
+git switch branch
